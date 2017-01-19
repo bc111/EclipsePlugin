@@ -1,0 +1,2 @@
+icon is subject to the Eclipse EPL licence
+hhttp://www.eclipse.org/legal/epl-v10.html
